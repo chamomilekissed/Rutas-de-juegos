@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35108204/README.md)
+
 # Recomendador evolutivo de videojuegos
 
 Si vuelves varias veces a *Silent Hill 2*, ¿qué otro juego podría interesarte? Este programa aprende de tus partidas y recomienda **hasta cinco videojuegos en orden**, sin preguntarte tus gustos. En la consola verás por qué eligió cada título y qué comparte con el anterior.
