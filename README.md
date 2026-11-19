@@ -7,7 +7,7 @@ Si vuelves varias veces a *Silent Hill 2*, ¿qué otro juego podría interesarte
 
 Necesitas **Python 3.10 o posterior**. El archivo `proyecto2.py` incluye los dos catálogos y utiliza la biblioteca estándar de Python. Puedes ejecutarlo sin conexión.
 
-- **En Spyder**, abre `proyecto2.py`, busca `MODO = "recomendar"`, cámbialo por `MODO = "demo"` y pulsa **F5**.
+- **En Spyder**, abre `Ruta demo`, busca `MODO = "recomendar"`, cámbialo por `MODO = "demo"` y pulsa **F5**.
 - **En la terminal**, abre la carpeta donde guardaste el archivo y ejecuta este comando.
 
 ```bash
